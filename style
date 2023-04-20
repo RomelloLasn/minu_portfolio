@@ -1,0 +1,38 @@
+.body{
+background-color: #020b5a;
+color: white;
+height: 6330px;
+font-family: 'inter';
+font-style: normal;
+
+}
+.nimi{
+text-align: left;
+font-size: 32px;
+padding-left: 10px;
+
+
+}
+.kontaktid{
+    text-align: right;
+    padding-right: 10px;
+    font-size: 32px; 
+    position: absolute; top:0; right:0;
+}
+.first_title{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.introduction{
+font-size: 30px;
+padding-left: 10px;
+padding-right: 10px;
+text-align: center;
+color: greenyellow;
+font-family: Arial, Helvetica, sans-serif;
+}
