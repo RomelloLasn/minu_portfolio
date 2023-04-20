@@ -10,9 +10,10 @@
 <header class="riba">
 <div class="nimi"><p>Romello Lasn</p>
     </div>
-<div class="kontaktid"><p>kontaktid</p>
+<button class="kontaktid"><p>kontaktid</p>
 
-</div>
+</button>
+
 
 </header>
 
@@ -22,7 +23,10 @@
 <div class="introduction"><p>Tere,olen Romello Lasn rühmast TAK22 ja sel aastal olen õppinud ma palju, olen leidnud uusi sõpru, olen õppinud programmeerimist, tavaaineid ja olen osalenud erinevates projektides. osalesin ka riigikaitselaagris mis kestis 3 päeva, olen mänginud erinevates tundides erinevaid mänge, olen õppinud veebi disaini jne.</p>
 
 </div>
-<img src="https://outlook.office365.com/mail/id/AAQkADE5NzljOWVhLTU3YjUtNDVmMC1iZDUyLWRhNDIyODA4M2UxZQAQAM0RYPPWWjVJtwPLAZTvo8w%3D/sxs/AAMkADE5NzljOWVhLTU3YjUtNDVmMC1iZDUyLWRhNDIyODA4M2UxZQBGAAAAAABvPulpZ1GPRIJlMMIk8F65BwCPD4GcHNg1QoCsg7szMCUgAAAAAAEMAACPD4GcHNg1QoCsg7szMCUgAACY2%2FKtAAABEgAQAOhHCpL85ipMnXmHOPEZ9iQ%3D" alt="">
+<img class="img1" src="romello1.jpg" alt="romello1"> 
+<img class="img2" src="thumbnail_Screenshot_20230420_095016_Instagram.jpg" alt="romello2">
+<img class="img3" src="thumbnail_Screenshot_20230420_095004_Instagram2.jpg" alt="romello3">
+
 
 </body>
     
