@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>minu portfolio</title>
+</head>
+<header class="riba">
+<div class="nimi"><p>Romello Lasn</p>
+    </div>
+<div class="kontaktid"><p>kontaktid</p>
+
+</div>
+
+</header>
+
+<body class="body">
+<div class="first_title"><p>portfolio</p>
+</div>
+<div class="introduction"><p>Tere,olen Romello Lasn rühmast TAK22 ja sel aastal olen õppinud ma palju, olen leidnud uusi sõpru, olen õppinud programmeerimist, tavaaineid ja olen osalenud erinevates projektides. osalesin ka riigikaitselaagris mis kestis 3 päeva, olen mänginud erinevates tundides erinevaid mänge, olen õppinud veebi disaini jne.</p>
+
+</div>
+<img src="https://outlook.office365.com/mail/id/AAQkADE5NzljOWVhLTU3YjUtNDVmMC1iZDUyLWRhNDIyODA4M2UxZQAQAM0RYPPWWjVJtwPLAZTvo8w%3D/sxs/AAMkADE5NzljOWVhLTU3YjUtNDVmMC1iZDUyLWRhNDIyODA4M2UxZQBGAAAAAABvPulpZ1GPRIJlMMIk8F65BwCPD4GcHNg1QoCsg7szMCUgAAAAAAEMAACPD4GcHNg1QoCsg7szMCUgAACY2%2FKtAAABEgAQAOhHCpL85ipMnXmHOPEZ9iQ%3D" alt="">
+
+</body>
+    
+
+</html>
