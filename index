@@ -18,16 +18,25 @@
 </header>
 
 <body class="body">
-<div class="first_title"><p>portfolio</p>
+<div class="first_title"><p>Romello Lasn portfolio</p>
 </div>
 <div class="introduction"><p>Tere,olen Romello Lasn rühmast TAK22 ja sel aastal olen õppinud ma palju, olen leidnud uusi sõpru, olen õppinud programmeerimist, tavaaineid ja olen osalenud erinevates projektides. osalesin ka riigikaitselaagris mis kestis 3 päeva, olen mänginud erinevates tundides erinevaid mänge, olen õppinud veebi disaini jne.</p>
 
 </div>
-<img class="img1" src="romello1.jpg" alt="romello1"> 
-<img class="img2" src="thumbnail_Screenshot_20230420_095016_Instagram.jpg" alt="romello2">
-<img class="img3" src="thumbnail_Screenshot_20230420_095004_Instagram2.jpg" alt="romello3">
+<img class="img1" src="Screenshot_20230420_092623_Instagram.jpg" alt="romello1"> 
+<img class="img2" src="Screenshot_20230420_095004_Instagram.jpg" alt="romello2">
+<img class="img3" src="Screenshot_20230420_095016_Instagram.jpg" alt="romello3">
 
+<div class="projekt"><p>See aasta oli mul 3 projekti: innovatsiooniprojekt ,Robootika ja Ametikooli kodulehe tegemine sajandaks sünnipäevaks</p>
 
+</div>
+<img class="pic_projekt" src="20220210_328.jpg" alt="innovatsiooniprojekt">
+<img class="pic_projekt2" src="314355594_544712010996786_3370491823140218626_n.jpg" alt="projekt2">
+
+<div class="projekt_text"><p>Esimesel projektil tegime me veebilehe kooli sajandaks sünnipäevaks, olime kuueses tiimis ja meie tiimi juht oli Timo Loho. Me tegime üsna laheda lehe, aga ei jõudnud seda lõpetada, sest aeg sai otsa.
+    Teine Projekt oli meil Innovatsiooniprojekt mis algas sügisel ja lõppes kevadel. projekti teema oli rohepööre ja me pidime väja mõtlema midagi, mis on kasulik koolielule ja on ka loodussõbralik.
+Alguses kestis projekt 3 päeva kus pidime me välja mõtlema toote ja kuidas seda kasutada   </p>
+</div>
 </body>
     
 
