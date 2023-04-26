@@ -57,5 +57,33 @@
    .img3{
     height: 25rem;
     width: 25rem;
-    padding-right: 40px;
+    padding-right: 20px;
    }
+   
+.projekt{
+    text-align: center;
+    font-size: 32px;
+    padding-left: 10px;
+
+}
+.pic_projekt{
+    height: 30rem;
+    width: 40rem;
+    padding-top: 10px;
+    padding-left: 3.5rem;
+    
+
+}
+.pic_projekt2{
+    height: 30rem;
+    width: 40rem;
+    margin-left: 2rem;
+    padding-right: 1rem;
+    
+
+}
+.projekt_text{
+    text-align: center;
+    font-size: 30px;
+
+}
