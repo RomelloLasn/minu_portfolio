@@ -4,16 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>minu portfolio</title>
 </head>
 <header class="riba">
 <div class="nimi"><p>Romello Lasn</p>
     </div>
-<button class="kontaktid"><p>kontaktid</p>
-
-</button>
-
 
 </header>
 
@@ -24,8 +21,8 @@
 
 </div>
 <img class="img1" src="Screenshot_20230420_092623_Instagram.jpg" alt="romello1"> 
-<img class="img2" src="Screenshot_20230420_095004_Instagram.jpg" alt="romello2">
-<img class="img3" src="Screenshot_20230420_095016_Instagram.jpg" alt="romello3">
+<img class="img2" src="Screenshot_20230420_095016_Instagram.jpg" alt="romello2">
+<img class="img3" src="thumbnail_Screenshot_20230420_095004_Instagram.jpg" alt="romello3">
 
 <div class="projekt"><p>See aasta oli mul 3 projekti: innovatsiooniprojekt ,Robootika ja Ametikooli kodulehe tegemine sajandaks sünnipäevaks</p>
 
@@ -38,6 +35,14 @@
 Alguses kestis projekt 3 päeva kus pidime me välja mõtlema toote ja kuidas seda kasutada   </p>
 </div>
 </body>
+<footer class="footer">
+    <p>kontaktid</p>
+    <div class="kontaktid">
+    <p><a href="romello.lasn@ametikool.ee"></a>romello.lasn@ametikool.ee</p>
+    <p>tel 58121762</p>
+    <a href="https://github.com/RomelloLasn">github<i class="fa fa-github"  style="font-size:24px"> </i> </a>
+    </button>
+    </div>
     
-
+  </footer>
 </html>
