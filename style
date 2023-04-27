@@ -1,10 +1,11 @@
 .body{
     
-    background-color: #020b5a;
-    color: white;
-    height: 6330px;
+    background-image: linear-gradient( red, yellow);
+    color: yellow;
+    height: 1958px;
     font-family: 'inter';
     font-style: normal;
+    
     
     }
     .nimi{
@@ -14,15 +15,7 @@
     
     
     }
-    .kontaktid{
-        text-align: right;
-        padding-right: 10px;
-        font-size: 32px; 
-        position: absolute; top:0; right:0;
-        background-color: #020b5a;
-        border-color: #020b5a;
-        color: white;
-    }
+   
     .first_title{
         color: white;
         text-align: center;
@@ -44,7 +37,7 @@
    .img1{
     height: 25rem;
     width: 25rem;
-    padding-left: 40px;
+    padding-left: 80px;
     margin-right: 20px;
    }
    .img2{
@@ -57,7 +50,7 @@
    .img3{
     height: 25rem;
     width: 25rem;
-    padding-right: 20px;
+    
    }
    
 .projekt{
@@ -86,4 +79,23 @@
     text-align: center;
     font-size: 30px;
 
+
+}
+.kontaktid{
+    color: black;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    color: black;
+    font-size: 64px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    height: 300px;
+    justify-content: left;
+    width: 1500px;
+}
+fa fa-github{
+    border: none;
+    background-color: orange;
 }
